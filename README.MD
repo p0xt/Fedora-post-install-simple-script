@@ -1,7 +1,7 @@
 # Fedora-post-installation-simple-script
 A simple post installation script to automate some common settings changes after installing Fedora Workstation (GNOME).  
 
-*Needs admin privileges*
+**Needs admin privileges**
 
 Behavior overview:
 - it assumes you're using Fedora (it uses dnf and flatpak)
